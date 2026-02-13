@@ -5,5 +5,14 @@
 
    Q2: What field could data science be applied to? Give an Example.
 
-    Answer: Data science can be applied to any field that deals with data, one example would be social sciences. Data science can be 
-    used to analyze the responses from a wide-reaching survey to find the most effective rhetorical strategies, for example.
+   Answer: Data science can be applied to any field that deals with data, one example would be social sciences. Data science can be 
+   used to analyze the responses from a wide-reaching survey to find the most effective rhetorical strategies, for example.
+
+   Q3: What is the difference between Merging and Rebasing?
+
+   Answer: Merging is a way of joining branches that preserves all history of both branches. Rebasing will combine branches in a cleaner
+   fashion by rewriting some history but this may cause unintended side effects.
+
+   Q4: What are you looking forward to this semester?
+
+   Answer: Learning some skills that may be useful later whether in a job or just because I found something that I wanted to analyze.
