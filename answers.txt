@@ -2,3 +2,8 @@
 
    Answer: Git is useful for version control: This allows many people to work independently on different parts of a project, without 
    conflicting. Also, it preserves historical versions so that changes do not permanently overwrite something you may need later.
+
+   Q2: What field could data science be applied to? Give an Example.
+
+    Answer: Data science can be applied to any field that deals with data, one example would be social sciences. Data science can be 
+    used to analyze the responses from a wide-reaching survey to find the most effective rhetorical strategies, for example.
